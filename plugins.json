@@ -1,14 +1,3 @@
-{
-  "version": "1.0",
-  "lastUpdated": "2026-02-09",
-  "plugins": [
-    {
-      "id": "Time & Scheduler",
-      "name": "TimeScheduler",
-      "author": "appipinopi",
-      "description": "Botに定期実行や予約投稿、遅延処理などの時間制御機能を追加します。",
-      "repo": "https://github.com/appipinopi/TimeScheduler",
-      "tags": ["Block", "Time"]
-    }
-  ]
-}
+[
+  "appipinopi/TimeScheduler"
+]
